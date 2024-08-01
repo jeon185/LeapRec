@@ -1,5 +1,6 @@
 # :zap: LeapRec
-This project is a PyTorch implementation of LeapRec (CIKM 2024).
+This project is a PyTorch implementation of "Calibration-Disentangled Learning and Relevance-Prioritized
+Reranking for Calibrated Sequential Recommendation" (LeapRec) which is published at CIKM 2024.
 
 The implementation is based on Python 3.10.0 and PyTorch 2.1.2.
 A complete list of required packages can be found in the `requirements.txt` file.
