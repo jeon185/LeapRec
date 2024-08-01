@@ -1,0 +1,27 @@
+genre_id,genre_name
+0,Alcoholic Beverages
+1,Beverages
+2,Breads & Bakery
+3,Breakfast Foods
+4,Candy & Chocolate
+5,Canned & Jarred & Packaged Foods
+6,Condiments & Salad Dressings
+7,Cooking & Baking
+8,Dairy & Cheese & Eggs
+9,Deli
+10,Dried Beans & Grains & Rice
+11,Food & Beverage Gifts
+12,Fresh Flowers & Live Indoor Plants
+13,Fresh Meal Kits
+14,Frozen
+15,Herbs & Spices & Seasonings
+16,Jams & Jellies & Sweet Spreads
+17,Meat & Seafood
+18,Meat Substitutes
+19,Olives & Pickles & Relishes
+20,Pasta & Noodles
+21,Prepared Foods
+22,Produce
+23,Sauces & Gravies & Marinades
+24,Snack Foods
+25,Soups & Stocks & Broths

@@ -1,0 +1,83 @@
+ml-1m:
+  num_users: 6038
+  num_items: 3883
+  batch_size: 128
+  lr: 1.0e-3
+  decay: 0.0
+  max_len: 200
+  hidden_dim: 50
+  blocks: 2
+  epochs: 200
+  heads: 1
+  dropout: 0.2
+  test_interval: 20
+  data_path: '../../data'
+  out_path: '../../out'
+  topk: [5, 10]
+  neg_num: 1
+  alpha: 0.9
+  beta: 0.01
+  gamma: 0.1
+
+goodreads:
+  num_users: 16765
+  num_items: 25474
+  batch_size: 128
+  lr: 1.0e-3
+  decay: 0.0
+  max_len: 50
+  hidden_dim: 50
+  blocks: 2
+  epochs: 100
+  heads: 1
+  dropout: 0.5
+  test_interval: 20
+  data_path: '../../data'
+  out_path: '../../out'
+  topk: [5, 10]
+  neg_num: 1
+  alpha: 0.9
+  beta: 0.01
+  gamma: 0.1
+
+grocery:
+  num_users: 54882
+  num_items: 39853
+  batch_size: 128
+  lr: 1.0e-3
+  decay: 0.0
+  max_len: 50
+  hidden_dim: 50
+  blocks: 2
+  epochs: 100
+  heads: 1
+  dropout: 0.5
+  test_interval: 20
+  data_path: '../../data'
+  out_path: '../../out'
+  topk: [5, 10]
+  neg_num: 1
+  alpha: 0.9
+  beta: 0.01
+  gamma: 0.1
+
+steam:
+  num_users: 242223
+  num_items: 14419
+  batch_size: 128
+  lr: 1.0e-3
+  decay: 0.0
+  max_len: 50
+  hidden_dim: 50
+  blocks: 2
+  epochs: 100
+  heads: 1
+  dropout: 0.5
+  test_interval: 20
+  data_path: '../../data'
+  out_path: '../../out'
+  topk: [5, 10]
+  neg_num: 1
+  alpha: 0.9
+  beta: 0.01
+  gamma: 0.1

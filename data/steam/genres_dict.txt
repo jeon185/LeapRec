@@ -1,0 +1,23 @@
+genre_id,genre_name
+0,Accounting
+1,Action
+2,Adventure
+3,Animation &amp; Modeling
+4,Audio Production
+5,Casual
+6,Design &amp; Illustration
+7,Early Access
+8,Education
+9,Free to Play
+10,Indie
+11,Massively Multiplayer
+12,Photo Editing
+13,RPG
+14,Racing
+15,Simulation
+16,Software Training
+17,Sports
+18,Strategy
+19,Utilities
+20,Video Production
+21,Web Publishing

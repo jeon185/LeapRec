@@ -1,0 +1,11 @@
+genre_id,genre_name
+0,children
+1,comics / graphic
+2,fantasy / paranormal
+3,fiction
+4,history / historical fiction / biography
+5,mystery / thriller / crime
+6,non-fiction
+7,poetry
+8,romance
+9,young-adult
